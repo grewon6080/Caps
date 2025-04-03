@@ -20,4 +20,8 @@ public class AddArticleRequest {
                 .build();
     }
 
+    public void TestCode() {
+        System.out.println("test git");
+    }
+
 }
