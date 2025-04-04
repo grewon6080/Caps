@@ -24,4 +24,8 @@ public class AddArticleRequest {
         System.out.println("test git");
     }
 
+    public void Test2() {
+        System.out.println("2");
+    }
+
 }
