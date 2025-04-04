@@ -20,12 +20,6 @@ public class AddArticleRequest {
                 .build();
     }
 
-    public void TestCode() {
-        System.out.println("test git");
-    }
 
-    public void Test2() {
-        System.out.println("2");
-    }
 
 }
